@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bkg_green">#00DBC1</color>
+    <color name="bkg_green_dark">#0AC2B3</color>
+    <color name="bkg_dark">#34495E</color>
+    <color name="text_dark">#4D4D4D</color>
+    <color name="text_error">#E74C3C</color>
+    <color name="color_success">#4CE73C</color>
+</resources>

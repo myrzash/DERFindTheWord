@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!--<bitmap--><!--xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:gravity="center"--><!--android:src="@mipmap/white_cell"></bitmap>-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--COLOR GREEN #99cc00-->
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <padding
+                android:bottom="6dp"
+                android:left="6dp"
+                android:right="6dp"
+                android:top="6dp" />
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/white_cell" />
+    </item>
+</layer-list>
+

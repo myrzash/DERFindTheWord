@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+
+        <layer-list>
+            <!--COLOR GREEN #99cc00-->
+            <item>
+                <shape>
+                    <corners android:radius="15dp" />
+                    <solid android:color="#99ffffff" />
+                    <padding android:bottom="3dp" android:left="3dp" android:right="3dp" android:top="3dp" />
+                </shape>
+            </item>
+
+            <item>
+                <shape>
+                    <corners android:radius="15dp" />
+                    <solid android:color="#bbffffff" />
+
+                    <padding android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp" />
+                </shape>
+            </item>
+
+            <item>
+                <shape>
+                    <corners android:radius="15dp" />
+                    <solid android:color="#ddffffff" />
+
+                    <padding android:bottom="1dp" android:left="1dp" android:right="1dp" android:top="1dp" />
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@mipmap/dark_cell" />
+            </item>
+        </layer-list>
+
+    </item>
+    <item>
+
+        <layer-list>
+            <item>
+                <shape>
+                    <solid android:color="@android:color/transparent" />
+                    <padding android:bottom="6dp" android:left="6dp" android:right="6dp" android:top="6dp" />
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@mipmap/dark_cell" />
+            </item>
+        </layer-list>
+
+    </item>
+</selector>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Сөзді тап</string>
+
+
+    <string name="toast_exit">Шығу үшін тағы бір рет басыңыз</string>
+    <string name="main_task">
+       2 МИНУТТЫҢ ІШІНДЕ 3, 4, 5
+        \nЖӘНЕ 6-ӘРЕПТЕН ТҰРАТЫН
+        \nСӨЗДЕРДІ ҚҰРАСТЫР.
+        \nСӨЗДЕРДІ ТАПҚАН САЙЫН
+        \nУАҚЫТ САНЫ АРТАДЫ.
+    </string>
+    <!--Finish dialog-->
+    <string name="dialog_finish_title">Ойынды аяқтау</string>
+    <string name="dialog_finish_message">Ойынды аяқтағыңыз келетініне сенімдісіз бе?</string>
+    <string name="no">Жоқ</string>
+    <string name="yes">Иә</string>
+
+    <!--When Repeat dialog-->
+    <string name="dialog_footnote_title">Ескерту</string>
+    <string name="dialog_footnote_message">Әріптерді қайталап ойнаған сәтте рекордтық ұпайлар есептелмейді</string>
+    <string name="start">Бастау</string>
+</resources>

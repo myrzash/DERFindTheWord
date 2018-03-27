@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_high">32dp</dimen>
+    <dimen name="text_size">24sp</dimen>
+    <dimen name="max_height_bird">300dp</dimen>
+
+    <dimen name="width_between_btn">150dp</dimen>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Найди слово</string>
+
+
+    <string name="toast_exit">Нажмите еще раз чтобы выйти</string>
+    <string name="main_task">
+        В ТЕЧЕНИИ 2-Х МИНУТ НАЙДИ СЛОВА,
+        \nСОСТОЯЩИЕ ИЗ 3, 4, 5 И 6 БУКВ.
+        \nЗА КАЖДЫЙ ПРАВИЛЬНЫЙ ОТВЕТ
+        \nБУДЕТ УВЕЛИЧИВАТЬСЯ ЗАДАННОЕ
+        \nВРЕМЯ ДЛЯ ОТВЕТА.
+    </string>
+    <!--Finish dialog-->
+    <string name="dialog_finish_title">Завершить игру</string>
+    <string name="dialog_finish_message">Вы уверены, что хотите завершить игру?</string>
+    <string name="no">Отмена</string>
+    <string name="yes">Да</string>
+
+    <!--When Repeat dialog-->
+    <string name="dialog_footnote_title">Примечание</string>
+    <string name="dialog_footnote_message">Зачисление рекордных очков не возможна, если вы играете с повторяющимися буквами.</string>
+    <string name="start">Начать</string>
+</resources>

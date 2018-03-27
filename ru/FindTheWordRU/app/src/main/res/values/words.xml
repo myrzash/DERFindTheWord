@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Words">
+        <item>ZYDECO #DECOY #DOZE #COZY #COED #CODE #ZED #ODE #DYE #DOE #DOC #COY #COD</item>
+        <item>ZOUNDS #SOUND #UNDO #ONUS #DUOS #DUNS #DONS #NODS #SUN #SUD #SON #SOD #NOS #NOD #DUO #DOS</item>
+        <item>ZOOMED #MOOED #OOZED #DOOM #ZOOM #OOZE #MOOD #MODE #DOME #DEMO #DOE #MOD #ODE #ZED #ZOO #MOO</item>
+        <item>ZONKED #ZONED #DOZEN #ZONE #NODE #KENO #DOZE #DONE #ZED #ONE #ODE #NOD #KEN #EON #END #DON #DEN</item>
+        <item>ZODIAC #CODA #ACID #CIAO #ADO #AID #COD #DOC #ADZ #CAD</item>
+        <item>ZITHER #THEIR #HERTZ #HEIR #HIRE #RITE #TIER #TIRE #ZIT #TIE #HIT #HIE #HIE #HER #IRE</item>
+        <item>ZIPPER #PIPER #PRIZE #RIPE #PREP #PIPE #PIER #ZIP #RIP #PIP #PIE #PEP #IRE</item>
+        <item>ZIPPED #PIPED #PIED #PIPE #DIE #DIP #PEP #PIE #PIP #ZED #ZIP</item>
+        <item>ZINGER #REIGN #GRIN #REIN #RING #ZING #GIN #IRE #RIG</item>
+        <item>ZINGED #DEIGN #DINE #ZING #DING #END #GIN #ZED #DIE #DIG #DIN #DEN</item>
+        <item>ABASED #ABASE #BASED #BEADS #BEAD #DEBS #DABS #ABED #BEAD #BASE #BEDS #BED #DEB #SAD #SEA #BED #BAD #ADS</item>
+    </string-array>
+</resources>

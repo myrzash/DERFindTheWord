@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+
+</resources>

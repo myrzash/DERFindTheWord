@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Find the word</string>
+
+
+    <string name="toast_exit">Press again to exit</string>
+    <string name="main_task">
+        DURING THE 2-MINUTES FIND
+        \nWORDS CONSISTING OF 3,4,5
+        \nAND 6 LETTERS.
+        \nEACH CORRECT ANSWER WILL
+        \nINCREASE THE SET TIME
+    </string>
+    <!--Finish dialog-->
+    <string name="dialog_finish_title">Finish the game</string>
+    <string name="dialog_finish_message">Are you sure you want to end the game?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <!--When Repeat dialog-->
+    <string name="dialog_footnote_title">Footnote</string>
+    <string name="dialog_footnote_message">Enrollment of record points is not possible, if you ply with repeated letters</string>
+    <string name="start">Start</string>
+</resources>
